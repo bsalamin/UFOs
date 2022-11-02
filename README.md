@@ -9,20 +9,20 @@ The objective of this analysis was to:
 * Build and deploy forEach (JavaScript for loop).
 * Create, populate, and dynamically filter a table using JavaScript and HTML
 
-# Results
+## Results
 
-## Welcome!
+### Welcome!
 Here you'll find a webpage and dynamic table, with in-depth analysis of UFO sightings that allows users to filter for multiple criteria at the same time:
 
 ![Screen Shot 2022-05-15 at 4 58 14 PM](https://user-images.githubusercontent.com/100387078/168493938-e7ad28e9-7cfb-4445-b9bb-5760c476a706.png)
 
-## Filtering
+### Filtering
 In addition to the date, the user can filter the table by city, state, country, and UFO shape.
 
-### Filter for country (Canada):
+#### Filter for country (Canada):
 ![Screen Shot 2022-05-15 at 4 58 26 PM](https://user-images.githubusercontent.com/100387078/168493944-f175bb7b-5a45-4800-b2ba-ba9a50a5b5f9.png)
 
-### Filter for UFO shape (disk):
+#### Filter for UFO shape (disk):
 ![Screen Shot 2022-05-15 at 4 58 59 PM](https://user-images.githubusercontent.com/100387078/168493945-ea25c7b7-b960-425e-9113-700e1d5e9199.png)
 
 ## Summary
